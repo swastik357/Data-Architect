@@ -1,0 +1,14 @@
+swastik#COMPUTE_WH@UDACITY.PUBLIC>!source //Users/swastik./Desktop/sql-scripts/Staging_sql_scripts/yelp_business.sql
+swastik#COMPUTE_WH@UDACITY.PUBLIC>!source //Users/swastik./Desktop/sql-scripts/Staging_sql_scripts/yelp_checkin.sql
+swastik#COMPUTE_WH@UDACITY.PUBLIC>!source //Users/swastik./Desktop/sql-scripts/Staging_sql_scripts/yelp_covid_features.sql
+swastik#COMPUTE_WH@UDACITY.PUBLIC>!source //Users/swastik./Desktop/sql-scripts/Staging_sql_scripts/yelp_review.sql
+swastik#COMPUTE_WH@UDACITY.PUBLIC>!source //Users/swastik./Desktop/sql-scripts/Staging_sql_scripts/yelp_tip.sql
+swastik#COMPUTE_WH@UDACITY.PUBLIC>!source //Users/swastik./Desktop/sql-scripts/Staging_sql_scripts/yelp_user.sql
+swastik#COMPUTE_WH@UDACITY.PUBLIC>!source //Users/swastik./Desktop/sql-scripts/Staging_sql_scripts/climate_precipitation.sql
+swastik#COMPUTE_WH@UDACITY.PUBLIC>!source //Users/swastik./Desktop/sql-scripts/Staging_sql_scripts/climate_temperature.sql
+
+swastik#COMPUTE_WH@UDACITY.PUBLIC>!source //Users/swastik./Desktop/sql-scripts/staging_to_ods.sql
+
+swastik#COMPUTE_WH@UDACITY.PUBLIC>!source //Users/swastik./Desktop/sql-scripts/ods_to_dwh.sql
+
+swastik#COMPUTE_WH@UDACITY.PUBLIC>!source //Users/swastik./Desktop/sql-scripts/final_query_run.sql
